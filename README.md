@@ -48,14 +48,14 @@ The Signup module enables new users to create an account, with validations to en
 ## Project Snapshots
 
 ###  Chat Screen
-![Chat Screen](![Chatbot](https://github.com/user-attachments/assets/36f8d0fd-0fe9-43bf-8d57-5c0c882a7bbc)
+![Chat Screen]([Chatbot](https://github.com/user-attachments/assets/36f8d0fd-0fe9-43bf-8d57-5c0c882a7bbc)
 
 ###  Home Screen
-![Home Screen](![AI chat](https://github.com/user-attachments/assets/5f13b252-18cb-4343-a1da-57409d3b7121)
+![Home Screen]([AI chat](https://github.com/user-attachments/assets/5f13b252-18cb-4343-a1da-57409d3b7121)
 )
 
 ###  Profile Screen
-![Profile Screen](![habit tracker page](https://github.com/user-attachments/assets/48e0689f-b191-4cae-98a2-584d7f6a02f6)
+![Profile Screen]([habit tracker page](https://github.com/user-attachments/assets/48e0689f-b191-4cae-98a2-584d7f6a02f6)
 )
 
 ## Installation
