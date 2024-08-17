@@ -48,37 +48,64 @@ The Signup module enables new users to create an account, with validations to en
 ## Project Snapshots
 
 ###  Chat Screen
-![Chat Screen](link_to_chat_screen_image)
+![Chat Screen](![Chatbot](https://github.com/user-attachments/assets/36f8d0fd-0fe9-43bf-8d57-5c0c882a7bbc)
 
 ###  Home Screen
-![Home Screen](link_to_home_screen_image)
+![Home Screen](![AI chat](https://github.com/user-attachments/assets/5f13b252-18cb-4343-a1da-57409d3b7121)
+)
 
 ###  Profile Screen
-![Profile Screen](link_to_profile_screen_image)
-
-### Usage
-After installation, you can navigate through the modules by logging in or signing up. The Home Module will be your starting point, with access to Chat, Habit Tracker, and other features.
+![Profile Screen](![habit tracker page](https://github.com/user-attachments/assets/48e0689f-b191-4cae-98a2-584d7f6a02f6)
+)
 
 ## Installation
 
 To get started with this project, clone the repository:
 
-(```) bash
-git clone https://github.com/ayushmishra25/Learnlog.git
-cd Learnlog
+bash
+```git clone https://github.com/ayushmishra25/Learnlog.git```
+```cd Learnlog```
 
 Next, install the dependencies:
 
-(```) bash
-flutter pub get
+bash
+```flutter pub get```
 
 Run the app:
 
-(```) bash
-flutter run
+bash
+```flutter run```
+
+### Usage
+After installation, you can navigate through the modules by logging in or signing up. The Home Module will be your starting point, with access to Chat, Habit Tracker, and other features.
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
 
 
 
