@@ -13,7 +13,7 @@
 3. [Project Snapshots](#project-snapshots)
    - [Chat Screen](#chat-screen)
    - [Home Screen](#home-screen)
-   - [Profile Screen](#profile-screen)
+   - [Habit Tracker Screen](#profile-screen)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
@@ -48,14 +48,17 @@ The Signup module enables new users to create an account, with validations to en
 ## Project Snapshots
 
 ###  Chat Screen
-![Chat Screen]([Chatbot](https://github.com/user-attachments/assets/36f8d0fd-0fe9-43bf-8d57-5c0c882a7bbc)
 
-###  Home Screen
-![Home Screen]([AI chat](https://github.com/user-attachments/assets/5f13b252-18cb-4343-a1da-57409d3b7121)
+(![Chatbot](https://github.com/user-attachments/assets/e31dc7f7-182d-4ed3-8a34-f8656b712d7a)
 )
 
-###  Profile Screen
-![Profile Screen]([habit tracker page](https://github.com/user-attachments/assets/48e0689f-b191-4cae-98a2-584d7f6a02f6)
+###  Home Screen
+
+(![AI chat](https://github.com/user-attachments/assets/05e2764a-4190-4373-9192-bf26bc1ef27b)
+)
+###  Habit Tracker Screen
+
+(![habit tracker page](https://github.com/user-attachments/assets/b2195d66-c013-47b3-a3b4-dfb910697986)
 )
 
 ## Installation
