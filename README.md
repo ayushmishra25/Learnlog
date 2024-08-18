@@ -65,17 +65,14 @@ The Signup module enables new users to create an account, with validations to en
 
 To get started with this project, clone the repository:
 
-
 ```git clone https://github.com/ayushmishra25/Learnlog.git```
 ```cd Learnlog```
 
 Next, install the dependencies:
 
-
 ```flutter pub get```
 
 Run the app:
-
 
 ```flutter run```
 
