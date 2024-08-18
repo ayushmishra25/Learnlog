@@ -65,18 +65,18 @@ The Signup module enables new users to create an account, with validations to en
 
 To get started with this project, clone the repository:
 
-bash
+
 ```git clone https://github.com/ayushmishra25/Learnlog.git```
 ```cd Learnlog```
 
 Next, install the dependencies:
 
-bash
+
 ```flutter pub get```
 
 Run the app:
 
-bash
+
 ```flutter run```
 
 ### Usage
